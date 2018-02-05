@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_bfe9ecd014c58a356f8b1516e263b0f45cdf7279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_432ccea8e93b0d97012ae89a8a18d42fca916c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_c9b27d30869497f2bc6cf41e1316d91b03bf55f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_07d498d70c8254e1523d35bcff66bbce5d0ca4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_c3d9c73a9c4d1111dc43f7049a07a5ec2574eab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_780ef45fa1fc1d8ac1140c7ec1107e36f753a43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_22c5b909bb48032f7cfcf6b654e09f40734694d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_bf0dfa1a312aa84b1458fa4aaba80a621f1c209d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\metadata-extractor-2.9.1_6003755419468cb4108a6a9e795ceb7ba3a4b499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_dc27b84376dfa074dcdab7401f74f31ab4d41f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\xmpcore-5.1.2_2f684ddf8593125b1b135e6eeae536cdf2f0a40c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\barcodeScanner\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb578ba8003ad02dc044ef12b92aee106926dea">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\barcodeScanner-react-native-camera-unspecified_50f19ece9c50e47cd1e9638f8987e8b8c2e33326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d9aea7eb547e158ef2c6879c60b3d8f204d14a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_14c1526ad8f7da3acbc4224687aea122d1d8af67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_1eeea37763def792624760d499a0a4c2980b0538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_414b41349ed9e968f420e3418665bfaa71244eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_0739733d2299d8f2f90fcc040c2819e0fd62579b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_06be5a63461da97af0f50614e4d2fc6d6908f167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_9242544a81645011a67caa3f11a2749b732118a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_3c9e5f5739c4c76fe1d8a760bf96e9b248558271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\core-3.2.1_417b63fbdef9e2b1f0b0425607720a3638a4b2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_6974b3f5aa6aa83dd53703a6086d7f3cdf7ec06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_b600627c6072e619cd5f0b71e359abb21b1b6912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_77a7f058b10473425397879a0ed3242985a26b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keanu\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Keanu\Desktop\BarcodeScanning\barcodeScanner\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_e7f563689f88ea62d4cf8eaee3a858ad48226456.jar" />
+    </item>
+
+</items>
