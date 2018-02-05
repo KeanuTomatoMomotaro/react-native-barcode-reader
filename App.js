@@ -11,6 +11,7 @@ import Camera from 'react-native-camera'
 import QRCode from 'react-native-qrcode';
 
 export default class App extends Component {
+  //start generate qr code
   render() {
     return (
       <View style={styles.container}>
@@ -51,12 +52,17 @@ const styles = StyleSheet.create({
   },
 });
 
+//end generate qr code
+
 //     constructor(props) {
 //     super(props);
 //     this.state = {
 //         barcode: ''
 //     }
 //   }
+
+//render bagian readernya, diatas buat generate qr code
+
 
 //   render(){
 //     return(
